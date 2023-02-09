@@ -89,7 +89,7 @@ export default function Ems() {
         </>
       ) : (
         <Heading as="h3" size="lg">
-          You are missing out on the fun if you don&apso;t connect!
+          You are missing out on the fun if you don&apos;t connect!
         </Heading>
       )}
     </>
